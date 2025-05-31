@@ -1,9 +1,11 @@
 # Lesmor
-Lesmor is an asymmetrical team-based Minecraft PVP map with a round-based economy.
+Lesmor is an asymmetrical team-based Minecraft PVP map with a round-based economy, created with concepting and design help from [_Oc](https://github.com/Ocarina919).
 
 The game is played by two teams. A team wins a match upon winning 10 rounds. A team wins a round when all players on the other team are eliminated, or when they capture the point in the center.
 
 Based on in-game objectives, teams gain currency which can be spent on upgrades that are either semi-persistent (structures) or temporary (powerups). 
+
+Interesting design commentary on an old version by NotJeven [here](https://notjeven.github.io/blog/posts/2020-02-29/).
 
 ## Screenshots
 Lobby
